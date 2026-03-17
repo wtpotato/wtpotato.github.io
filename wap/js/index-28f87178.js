@@ -1,0 +1,1 @@
+import{_ as t,b as c,d as _,f as o,g as r,j as a}from"./index-ce3977ee.js";const n={class:"iframe-content"},d=["src"],l={__name:"index",setup(i){const e=c(),s=_(()=>e.customer_service_url||"");return(u,m)=>(o(),r("div",n,[a("iframe",{src:s.value,class:"flex-1"},null,8,d)]))}},f=t(l,[["__scopeId","data-v-4d34c88f"]]);export{f as default};
