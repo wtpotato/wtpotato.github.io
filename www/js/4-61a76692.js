@@ -1,1 +1,1 @@
-const a="/wap/png/name-e5c455cc.png";export{a as default};
+const c="/www/png/name-e5c455cc.png";export{c as default};

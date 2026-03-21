@@ -1,1 +1,1 @@
-System.register([],function(e,t){"use strict";return{execute:function(){e("default","/wap/png/name-eb40a9be.png")}}});
+System.register([],function(e,t){"use strict";return{execute:function(){e("default","/www/png/name-eb40a9be.png")}}});

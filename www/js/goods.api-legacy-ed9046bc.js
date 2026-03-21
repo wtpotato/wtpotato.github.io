@@ -1,0 +1,1 @@
+System.register(["./index-legacy-1acdc7fa.js"],function(e,r){"use strict";var t,a;return{setters:[e=>{t=e.aJ,a=e.aK}],execute:function(){e("_",()=>t({url:"/wap/seller/orders!list-returns.action",method:a.POST})),e("d",e=>t({url:"/wap/seller/orders!details-returns.action",method:a.POST,data:e})),e("o",e=>t({url:"/wap/api/order!listGoods.action",method:a.POST,params:e}))}}});

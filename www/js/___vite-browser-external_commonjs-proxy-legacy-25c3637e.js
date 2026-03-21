@@ -1,0 +1,1 @@
+System.register(["./index-legacy-d78dc9fe.js"],function(e,t){"use strict";var r;return{setters:[e=>{r=e.ba}],execute:function(){const t=Object.freeze(Object.defineProperty({__proto__:null,default:{}},Symbol.toStringTag,{value:"Module"}));e("r",r(t))}}});

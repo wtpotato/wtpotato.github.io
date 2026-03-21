@@ -1,0 +1,1 @@
+import{av as a,aw as t}from"./index-c502f784.js";const o=e=>a({url:"/wap/api/localuser!registerNoVerifcode.action",method:t.POST,data:e}),s=e=>a({url:"/wap/api/user!newlogin.action",method:t.POST,data:e}),n=e=>a({url:"/wap/api/idcode!execute.action",method:t.POST,data:e}),i=e=>a({url:"/wap/api/cms!get.action",method:"get",data:e});export{o as _,n as a,i as b,s as n};

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-f452c5a4.js"],function(e,t){"use strict";var n,r,u;return{setters:[e=>{n=e._,r=e.f,u=e.s}],execute:function(){e("default",n({},[["render",function(e,t){return u(),r("div",null," 404 ")}]]))}}});
